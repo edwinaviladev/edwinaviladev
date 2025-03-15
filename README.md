@@ -25,15 +25,15 @@
 
 <p align="center">
     <div align="center">
-        <summary><img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=wechito&theme=dark&hide_progress=true" /></summary>
+        <div><img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=wechito&theme=dark&hide_progress=true" /></div>
     </div>
     <br>
     <div align="center">
-        <summary><img  align="center"  src="https://github-readme-stats.vercel.app/api?username=wechito&theme=dark&show_icons=true&count_private=true" /></summary>
+        <div><img  align="center"  src="https://github-readme-stats.vercel.app/api?username=wechito&theme=dark&show_icons=true&count_private=true" /></div>
     </div>
     <br>
     <div align="center">
-        <summary><img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=wechito&theme=dark&hide_border=false" /> </summary>
+        <div><img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=wechito&theme=dark&hide_border=false" /> </div>
     </div>
 <br>
 <!--- trophy (start) -->
