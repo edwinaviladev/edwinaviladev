@@ -24,16 +24,18 @@
 </div>
 
 <p align="center">
-    <ul align="center">
+    <div align="center">
         <summary><img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=wechito&theme=dark&hide_progress=true" /></summary>
-    </ul>
-    <ul align="center">
+    </div>
+    <br>
+    <div align="center">
         <summary><img  align="center"  src="https://github-readme-stats.vercel.app/api?username=wechito&theme=dark&show_icons=true&count_private=true" /></summary>
-    </ul>
-    <ul align="center">
+    </div>
+    <br>
+    <div align="center">
         <summary><img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=wechito&theme=dark&hide_border=false" /> </summary>
-    </ul>
-
+    </div>
+<br>
 <!--- trophy (start) -->
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
