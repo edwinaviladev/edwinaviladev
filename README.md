@@ -33,22 +33,6 @@ I specialize in **Java and Spring Boot** for backend services, with experience i
 
 ---
 
-## 📊 My GitHub Stats
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinaviladev&theme=dark&hide_progress=true" />
-    <br><br>
-    <img src="https://github-readme-stats.vercel.app/api?username=edwinaviladev&theme=dark&show_icons=true&count_private=true" />
-    <br><br>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=edwinaviladev&theme=dark&hide_border=false" />
-</p>
-
-<p align="center">
-  <img width="84%" src="https://github-profile-trophy.vercel.app/?username=edwinaviladev&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-</p>
-
----
-
 ## 🤝 Connect With Me
 
 <p align="center">
@@ -63,11 +47,11 @@ I specialize in **Java and Spring Boot** for backend services, with experience i
 ---
 
 ## 👨‍💻 Key Highlights
-- ⚡ **RESTful APIs & Microservices:** Building scalable backend services with Java & Spring Boot  
-- 🗄️ **Databases:** SQL & NoSQL, data modeling, query optimization  
-- 🐳 **DevOps & Tools:** Docker, Git, Postman for streamlined development  
-- 🌐 **Frontend Support:** React & Vue for API integration and UI testing  
-- 🧩 **Problem Solving:** Algorithms, data structures, and clean, maintainable code  
+- **RESTful APIs & Microservices:** Building scalable backend services with Java & Spring Boot  
+- **Databases:** SQL & NoSQL, data modeling, query optimization  
+- **DevOps & Tools:** Docker, Git, Postman for streamlined development  
+- **Frontend Support:** React & Vue for API integration and UI testing  
+- **Problem Solving:** Algorithms, data structures, and clean, maintainable code  
 
 ---
 
