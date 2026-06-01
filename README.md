@@ -55,7 +55,6 @@ What drives me:
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/WinUI-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
 </p>
 
